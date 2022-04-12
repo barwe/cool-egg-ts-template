@@ -10,6 +10,8 @@ logs/
 *.swp
 *.lock
 *.js
+!.eslintrc.js
+!.prettierrc.js
 !.autod.conf.js
 
 app/**/*.js
